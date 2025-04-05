@@ -18,8 +18,8 @@ Here, I practiced:
 ## 🛠️ Tech Stack
 
 - React
-- Vite (or Create React App)
-- CSS Modules /
+- Vite
+- CSS
 - npm
 
 ---
